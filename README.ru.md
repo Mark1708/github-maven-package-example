@@ -3,7 +3,7 @@
 ![Github](https://img.shields.io/badge/-Github-0a0a0a?style=for-the-badge&logo=Github)
 ![Maven](https://img.shields.io/badge/-Maven-0a0a0a?style=for-the-badge&logo=ApacheMaven)
 
-### [English version](github/apache-maven-registry/README.md)
+### [English version](https://github.com/Mark1708/github-maven-package-example/blob/main/README.md)
 
 Вы можете настроить Apache Maven для публикации пакетов в GitHub Packages  и их использование в качестве зависимостей в проекте Java.
 
