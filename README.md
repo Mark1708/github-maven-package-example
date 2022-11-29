@@ -3,7 +3,7 @@
 ![Github](https://img.shields.io/badge/-Github-0a0a0a?style=for-the-badge&logo=Github)
 ![Maven](https://img.shields.io/badge/-Maven-0a0a0a?style=for-the-badge&logo=ApacheMaven)
 
-### [Russian version](github/apache-maven-registry/README.ru.md)
+### [Russian version](https://github.com/Mark1708/github-maven-package-example/blob/main/README.ru.md)
 You can configure Apache Maven to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Java project.
 
 ## Generate a standard Maven project
